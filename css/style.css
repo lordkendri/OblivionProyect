@@ -570,7 +570,7 @@ a:hover {
 
 .navigation .logo img {
   height: auto;
-  width: 140px;
+  width: 50px;
 }
 
 .navigation .navigation-menu li.active a {
@@ -2095,6 +2095,3 @@ blockquote {
 
 /*# sourceMappingURL=maps/style.css.map */
 
-.img1  {
-  size: 40px 40px;
-}
